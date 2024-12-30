@@ -1,2 +1,7 @@
-flask
-gunicorn
+Flask==3.1.0
+gunicorn==23.0.0
+keras==3.7.0
+tensorflow==2.18.0
+numpy==2.0.2
+opencv-python==4.10.0.84
+requests==2.32.3
